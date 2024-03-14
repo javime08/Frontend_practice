@@ -1,0 +1,22 @@
+body{
+  background-color: antiquewhite;
+}
+
+.header{
+  display: flex;
+  border: black;
+  background-color: lightblue;
+}
+
+.nav-left{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: whitesmoke;
+  height: 55px;
+}
+
+.navbar2{
+  display: flex;
+
+}
