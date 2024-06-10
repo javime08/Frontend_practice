@@ -1,0 +1,9 @@
+*{
+    background:light-blue;
+  }
+  html{
+    display:flex;
+  }
+  #header{
+    position:fixed;
+  }
